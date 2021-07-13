@@ -3,12 +3,19 @@
 1. OBJETIVOS
 
 ☻ Generales:
-*
+
+* Ser capaces de reconocer los diferentes tipos de circuitos en paralelo a profundidad de los conceptos fundamentales.
+
+* Conocer los conceptos básicos sobre Ley de voltaje de Kirchhoff, resistores en serie y regla del divisor de voltaje mediante el estudio de la teoría.
 
 ☻Específicos:
+
 * Analizar y calcular los ejercicios del capitulo 7 y 8 con lo conocimientos adquiridos en clase. 
+* 
 * Demostrar los distintos métodos de resolución de circuitos.
+
 * Analizar el circuito para encontrar sus elementos y entender su función.
+* 
 * Reforzar los conocimientos establecidos en clase por medio de la resolución de ejercicios.
 
 2. Marco Teorico 
