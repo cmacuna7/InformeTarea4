@@ -39,10 +39,21 @@ UNIDAD 7
 
 ![](Img/19.PNG)
 
+![](Img/27,29.PNG)
+
+![](Img/31,33.PNG)
+
+![](Img/35.PNG)
+
+![](Img/37.PNG)
+
+![](Img/39,41.PNG)
+
 
 
 UNIDAD 8
 
+![](Img/2,4,6.PNG)
 
 ![](Img/8-36.jpg)
 ![](Img/8-38.jpg)
