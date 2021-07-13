@@ -3,7 +3,7 @@
 1. OBJETIVOS
 
 ☻ Generales:
-*
+* Analizar y calcular con lo conocimientos adquiridos en clases los ejercicios del capitulo 7 y 8 
 
 ☻Específicos:
 * 
