@@ -16,9 +16,13 @@ UNIDAD 7
 
 <img src= Img/1-3.PNG>
 ![](Img/27.PNG)
+
 ![](Img/29,31.PNG)
+
 ![](Img/33,35.PNG)
+
 ![](Img/37.PNG)
+
 ![](Img/39,41.PNG)
 
 UNIDAD 8
