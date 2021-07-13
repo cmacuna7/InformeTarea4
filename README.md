@@ -32,23 +32,10 @@ UNIDAD 7
 
 ![](Img/19.PNG)
 
-![](Img/21,23.PNG)
 
-![](Img/27.PNG)
-
-![](Img/29,31.PNG)
-
-![](Img/33,35.PNG)
-
-![](Img/37.PNG)
-
-![](Img/39,41.PNG)
 
 UNIDAD 8
 
-![](Img/2,4,6.PNG)
-![](Img/8-32.jpg)
-![](Img/8-34.jpg)
 
 ![](Img/8-36.jpg)
 ![](Img/8-38.jpg)
