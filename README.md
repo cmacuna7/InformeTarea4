@@ -6,7 +6,7 @@
 *
 
 ☻Específicos:
-* Analizar y calcular los ejercicios del capitulo 7 y 8 con lo conocimientos adquiridos en clases 
+* Analizar y calcular los ejercicios del capitulo 7 y 8 con lo conocimientos adquiridos en clase. 
 
 2. Marco Teorico 
 
