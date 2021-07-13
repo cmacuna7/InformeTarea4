@@ -58,5 +58,5 @@ UNIDAD 8
 
 8. BIBLIOGRAFÍA
 
-
+Allan.H.Wilhelm.C.(2008). Análisis de circuitos teoría y práctica. Santa Fe, México: Cengage learning editores.
 
