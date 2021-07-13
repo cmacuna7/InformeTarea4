@@ -8,6 +8,8 @@
 ☻Específicos:
 * Analizar y calcular los ejercicios del capitulo 7 y 8 con lo conocimientos adquiridos en clase. 
 * Demostrar los distintos métodos de resolución de circuitos.
+* Analizar el circuito para encontrar sus elmentos y entender su función.
+* Reforzar los conocimientos establecidos en clase por medio de la resolución de ejercicios.
 
 2. Marco Teorico 
 
