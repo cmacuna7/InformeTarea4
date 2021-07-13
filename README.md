@@ -14,8 +14,23 @@
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 UNIDAD 7
+![](Img/1.PNG)
 
-<img src= Img/1-3.PNG>
+![](Img/3,5.PNG)
+
+![](Img/7.PNG)
+
+![](Img/9.PNG)
+
+![](Img/11.PNG)
+
+![](Img/15.PNG)
+
+![](Img/17.PNG)
+
+![](Img/19.PNG)
+
+![](Img/21,23.PNG)
 
 ![](Img/27.PNG)
 
