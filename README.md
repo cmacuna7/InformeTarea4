@@ -20,6 +20,8 @@
 
 2. Marco Teorico 
 
+![](Img/marco1-8.jpg)
+
 3. EXPLICACIÓN Y RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
 
 UNIDAD 7
