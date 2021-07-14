@@ -56,6 +56,14 @@ UNIDAD 7
 UNIDAD 8
 
 ![](Img/2,4,6.PNG)
+![](Img/8-8.jpg)
+![](Img/10-8.jpg)
+![](Img/20-8.jpg)
+![](Img/22-8.jpg)
+![](Img/24-8.jpg)
+![](Img/26-8.jpg)
+![](Img/28-8.jpg)
+![](Img/30-8.jpg)
 ![](Img/8-32.jpg)
 ![](Img/8-34.jpg)
 ![](Img/8-36.jpg)
